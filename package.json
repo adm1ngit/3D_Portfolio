@@ -10,7 +10,7 @@
   "preview": "vite preview",
   "host": "vite --host",
   "start": "node server.js"
-}
+},
 
   "devDependencies": {
     "vite": "^6.3.5"
